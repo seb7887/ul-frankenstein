@@ -1,0 +1,47 @@
+{
+  "name": "ul-frankenstein",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seb7887/ul-frankenstein.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seb7887/ul-frankenstein/issues"
+  },
+  "homepage": "https://github.com/seb7887/ul-frankenstein#readme",
+  "dependencies": {
+    "@auth0/nextjs-auth0": "^4.9.0",
+    "@radix-ui/react-alert-dialog": "^1.1.15",
+    "@radix-ui/react-slot": "^1.2.3",
+    "@tailwindcss/postcss": "^4.1.12",
+    "@types/jsonwebtoken": "^9.0.10",
+    "@types/node": "^24.3.0",
+    "@types/react": "^19.1.10",
+    "@types/react-dom": "^19.1.7",
+    "autoprefixer": "^10.4.21",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "eslint": "^9.33.0",
+    "eslint-config-next": "^15.5.0",
+    "jsonwebtoken": "^9.0.2",
+    "lucide-react": "^0.540.0",
+    "next": "^15.5.0",
+    "postcss": "^8.5.6",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "tailwind-merge": "^3.3.1",
+    "tailwindcss": "^4.1.12",
+    "typescript": "^5.9.2"
+  }
+}
